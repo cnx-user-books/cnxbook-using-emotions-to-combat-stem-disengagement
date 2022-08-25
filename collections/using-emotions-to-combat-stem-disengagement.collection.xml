@@ -1,58 +1,22 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="William Frey">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col26115</md:content-id>
-  <md:title>Using Emotions to Combat STEM Disengagement</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>ab0aa941-4331-419d-8af6-566461a5e4f7</md:uuid>
-<md:slug>using-emotions-to-combat-stem-disengagement</md:slug>
-</metadata>
-
+    <md:content-id>col26115</md:content-id>
+    <md:title>Using Emotions to Combat STEM Disengagement</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>ab0aa941-4331-419d-8af6-566461a5e4f7</md:uuid>
+    <md:slug>using-emotions-to-combat-stem-disengagement</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Moral emotions and supporting theories</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m81959"/>
-        
-      
-    
-    
-      <col:module document="m65942"/>
-        
-      
-    
-    
-      <col:module document="m66311"/>
-        
-      
-    
-    
-      <col:module document="m70765"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Moral emotions and supporting theories</md:title>
+      <col:content>
+        <col:module document="m81959"/>
+        <col:module document="m65942"/>
+        <col:module document="m66311"/>
+        <col:module document="m70765"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
